@@ -4,7 +4,7 @@ from typing import List, Tuple, Optional
 #change 
 wefwef
 wefwef
-
+# 121321
 class GeneticAlgorithm:
     def __init__(
         self,
