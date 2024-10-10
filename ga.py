@@ -3,8 +3,8 @@ import random
 from typing import List, Tuple, Optional
 #change 
 wefwef
-wefwef
-# 121321
+wefwefweweweweww
+# 121321awewef
 class GeneticAlgorithm:
     def __init__(
         self,
