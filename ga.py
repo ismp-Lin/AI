@@ -1,6 +1,9 @@
 import numpy as np
 import random
 from typing import List, Tuple, Optional
+#change 
+wefwef
+wefwef
 
 class GeneticAlgorithm:
     def __init__(
